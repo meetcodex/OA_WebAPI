@@ -1,0 +1,15 @@
+E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.deps.json
+E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.dll
+E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csprojAssemblyReference.cache
+E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.AssemblyInfoInputs.cache
+E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.AssemblyInfo.cs
+E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.runtimeconfig.json
+E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.runtimeconfig.dev.json
+E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.pdb
+E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_Repository\bin\Debug\netcoreapp3.1\OA_DataAccess.dll
+E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_Repository\bin\Debug\netcoreapp3.1\OA_DataAccess.pdb
+E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.CoreCompileInputs.cache
+E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.CopyComplete
+E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.dll
+E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.pdb
+E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.genruntimeconfig.cache

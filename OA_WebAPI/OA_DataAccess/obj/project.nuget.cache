@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BWLMYnM/nYoVvUIws4EZoBmzuvebL9JrIQ2/19QgzURVpeMHI5Krg/ayju2bfHZ01/ZXIrkOBqQsPKGcfzjQvA==",
+  "success": true,
+  "projectFilePath": "D:\\React Training\\GitApi\\OA_WebAPI\\OA_DataAccess\\OA_DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meetpm\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6\\microsoft.aspnetcore.http.features.3.1.6.nupkg.sha512",
+    "C:\\Users\\Meetpm\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
+    "C:\\Users\\Meetpm\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
