@@ -2,6 +2,7 @@
 using OA_Repository;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace OA_Service
@@ -49,9 +50,13 @@ namespace OA_Service
         /// Get All Employee
         /// </summary>
         /// <returns>Employee List</returns>
-        public IEnumerable<Employee> GetAllEmployee()
+        public IEnumerable<Employee> GetAllEmployee(EmployeeParameters employeeParameters)
         {
-            return _employeeRepository.GetAll();
+            return _employeeRepository.GetAll()
+                .OrderBy(x => x.Id)
+                .Skip((employeeParameters.PageNumber - 1) * employeeParameters.PageSize)
+                .Take(employeeParameters.PageSize)
+                .ToList();
         }
 
         /// <summary>

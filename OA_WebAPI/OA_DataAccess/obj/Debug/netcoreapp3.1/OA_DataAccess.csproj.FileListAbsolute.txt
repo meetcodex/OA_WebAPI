@@ -7,3 +7,12 @@ E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_DataAccess\bin\Debug\netcoreapp3
 E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_DataAccess\obj\Debug\netcoreapp3.1\OA_DataAccess.csproj.CoreCompileInputs.cache
 E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_DataAccess\obj\Debug\netcoreapp3.1\OA_DataAccess.dll
 E:\Meet Pamar\Training\Asp.NetCore\OA_WebAPI\OA_DataAccess\obj\Debug\netcoreapp3.1\OA_DataAccess.pdb
+D:\React Training\GitApi\OA_WebAPI\OA_DataAccess\bin\Debug\netcoreapp3.1\OA_DataAccess.deps.json
+D:\React Training\GitApi\OA_WebAPI\OA_DataAccess\bin\Debug\netcoreapp3.1\OA_DataAccess.dll
+D:\React Training\GitApi\OA_WebAPI\OA_DataAccess\bin\Debug\netcoreapp3.1\OA_DataAccess.pdb
+D:\React Training\GitApi\OA_WebAPI\OA_DataAccess\obj\Debug\netcoreapp3.1\OA_DataAccess.csprojAssemblyReference.cache
+D:\React Training\GitApi\OA_WebAPI\OA_DataAccess\obj\Debug\netcoreapp3.1\OA_DataAccess.AssemblyInfoInputs.cache
+D:\React Training\GitApi\OA_WebAPI\OA_DataAccess\obj\Debug\netcoreapp3.1\OA_DataAccess.AssemblyInfo.cs
+D:\React Training\GitApi\OA_WebAPI\OA_DataAccess\obj\Debug\netcoreapp3.1\OA_DataAccess.csproj.CoreCompileInputs.cache
+D:\React Training\GitApi\OA_WebAPI\OA_DataAccess\obj\Debug\netcoreapp3.1\OA_DataAccess.dll
+D:\React Training\GitApi\OA_WebAPI\OA_DataAccess\obj\Debug\netcoreapp3.1\OA_DataAccess.pdb

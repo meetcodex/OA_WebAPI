@@ -29,9 +29,9 @@ namespace OA_WebAPI.Controllers
 
         [Route("GetAllEmployee")]
         [HttpGet]
-        public IActionResult Get()
+        public IActionResult Get([FromQuery] EmployeeParameters employeeParameters)
         {
-             var employees = _employeeService.GetAllEmployee();
+            var employees = _employeeService.GetAllEmployee(employeeParameters);
             return Ok(employees);
         }
 

@@ -11,7 +11,7 @@ namespace OA_Service
         /// Get All Employee
         /// </summary>
         /// <returns>Employee List</returns>
-        IEnumerable<Employee> GetAllEmployee();
+        IEnumerable<Employee> GetAllEmployee(EmployeeParameters employeeParameters);
 
         /// <summary>
         /// Get Employee
